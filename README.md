@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Omer 👋</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Engineer+%7C+Builder+%7C+Founder;Turning+problems+into+working+prototypes;CAD+%7C+Embedded+systems+%7C+Design;Learning+web+dev+for+hackathons+this+fall" alt="Typing animation" />
+</p>
+
+<p align="center">
   <b>Mechanical &amp; Aerospace Engineering @ Rutgers — School of Engineering, Honors College</b><br/>
   Engineering + startups. I like building things that solve real problems.
 </p>
@@ -84,6 +88,9 @@ Research shows **76–81% of older adults** can't reliably read the small print 
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=omer-khawar&show_icons=true&hide_border=true&theme=tokyonight" alt="Omer's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer-khawar&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omer-khawar&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
@@ -92,5 +99,5 @@ Research shows **76–81% of older adults** can't reliably read the small print 
 ---
 
 <p align="center">
-  📫 Reach me on <a href="https://www.linkedin.com/in/omer-khawar-534a8a2a7">LinkedIn</a> or by <a href="mailto:omer.khawar@aol.com">email</a> — always down to talk about literally anything lol
+  📫 Reach me on <a href="https://www.linkedin.com/in/omer-khawar-534a8a2a7">LinkedIn</a> or by <a href="mailto:omer.khawar@aol.com">email</a> — always happy to talk engineering, startups, or a good build.
 </p>
