@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:omer.khawar@aol.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=omer-khawar&style=for-the-badge&color=0A66C2&label=Profile+Views" alt="Profile views"/>
 </p>
@@ -19,12 +19,13 @@
 
 ### About Me
 
-- 🎓 Incoming first-year in **Mechanical & Aerospace Engineering** at **Rutgers University** (School of Engineering, Honors College).
-- 🛠️ I work across **CAD, embedded electronics, and design** — turning a problem into a working prototype.
-- 🚀 Founder of Youth2STEM Inc. a **501(c)(3) nonprofit** that brings STEM education to underserved youth — 500+ students reached across 8 locations.
-- 🧮 Three-time consecutive **FBLA State Finalist** (Top 10 in Intro to Information Technology, Business Ethics, and Second Place in Parliamentary Procedure).
-- 🌱 Currently leveling up my **web development** (HTML / CSS / JavaScript) and **Git** to compete in hackathons this fall.
-- 🌸 Off the clock: anime (watching Re:Zero!), video editing, graphic design, and playing Forza Horizon 6.
+I'm an incoming first-year in **Mechanical & Aerospace Engineering** at Rutgers (School of Engineering, Honors College). I'm most at home where CAD, embedded electronics, and design overlap — taking a problem from idea to working prototype.
+
+- Founded **Youth2STEM Inc.**, a 501(c)(3) that's brought STEM education to 500+ students across 8 locations.
+- Three-time consecutive **FBLA State Finalist** — Top 10 in Intro to IT and Business Ethics, 2nd in Parliamentary Procedure.
+- Currently sharpening my web development (HTML / CSS / JavaScript) and Git for hackathons this fall.
+
+Off the clock: anime (currently watching *Re:Zero*), video editing, graphic design, and Forza Horizon 6.
 
 ---
 
@@ -41,6 +42,10 @@ Research shows **76–81% of older adults** can't reliably read the small print 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,arduino,py&perline=10" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/Onshape-1671D8?style=for-the-badge" alt="Onshape"/>
+  <img src="https://img.shields.io/badge/Multisim-00A94F?style=for-the-badge" alt="Multisim"/>
+</p>
 
 | Component | Role in the build |
 | --- | --- |
@@ -56,11 +61,23 @@ Research shows **76–81% of older adults** can't reliably read the small print 
 
 ### 🧰 Skills & Tools
 
+**Languages & Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,arduino,py,js,html,css,git,github,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,py,js,html,css,arduino,git,github,vscode&perline=10" />
 </p>
 
-**Engineering & design:** Onshape (CAD) · Multisim (circuit simulation) · Vernier sensors · soldering / prototyping · Adobe Creative Cloud · Advanced Excel
+**Design & Media**
+<p>
+  <img src="https://skillicons.dev/icons?i=ps,ai,ae,pr&perline=10" />
+</p>
+
+**Engineering**
+<p>
+  <img src="https://img.shields.io/badge/Onshape-1671D8?style=for-the-badge" alt="Onshape"/>
+  <img src="https://img.shields.io/badge/Multisim-00A94F?style=for-the-badge" alt="Multisim"/>
+</p>
+
+<sub>Also: Vernier sensors · soldering &amp; prototyping · Advanced Excel</sub>
 
 ---
 
