@@ -92,5 +92,5 @@ Research shows **76–81% of older adults** can't reliably read the small print 
 ---
 
 <p align="center">
-  📫 Reach me on <a href="https://www.linkedin.com/in/omer-khawar-534a8a2a7">LinkedIn</a> or by <a href="mailto:omer.khawar@aol.com">email</a> — always happy to talk engineering, startups, or a good build.
+  📫 Reach me on <a href="https://www.linkedin.com/in/omer-khawar-534a8a2a7">LinkedIn</a> or by <a href="mailto:omer.khawar@aol.com">email</a> — always down to talk about literally anything lol
 </p>
