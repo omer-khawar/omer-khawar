@@ -21,11 +21,10 @@
 
 - 🎓 Incoming first-year in **Mechanical & Aerospace Engineering** at **Rutgers University** (School of Engineering, Honors College).
 - 🛠️ I work across **CAD, embedded electronics, and design** — turning a problem into a working prototype.
-- 🚀 Founder of a **501(c)(3) nonprofit** that brings STEM education to underserved youth — 500+ students reached across 8 locations.
-- 🧮 President of my school's **Math Honor Society (Mu Alpha Theta)** and an **FBLA State Finalist** (Top 10 in NJ).
-- 💡 I have an entrepreneurial streak — always poking at startup ideas to see which one is worth shipping.
+- 🚀 Founder of Youth2STEM Inc. a **501(c)(3) nonprofit** that brings STEM education to underserved youth — 500+ students reached across 8 locations.
+- 🧮 Three-time consecutive **FBLA State Finalist** (Top 10 in Intro to Information Technology, Business Ethics, and Second Place in Parliamentary Procedure).
 - 🌱 Currently leveling up my **web development** (HTML / CSS / JavaScript) and **Git** to compete in hackathons this fall.
-- 🌸 Off the clock: anime, design, and the next idea worth building.
+- 🌸 Off the clock: anime (watching Re:Zero!), video editing, graphic design, and playing Forza Horizon 6.
 
 ---
 
