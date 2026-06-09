@@ -88,6 +88,10 @@ Research shows **76–81% of older adults** can't reliably read the small print 
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=omer-khawar&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="Omer's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omer-khawar&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages"/>
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=omer-khawar&hide_border=true&theme=tokyonight" alt="GitHub streak"/>
 </p>
 
