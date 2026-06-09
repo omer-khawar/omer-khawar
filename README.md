@@ -59,7 +59,7 @@ Research shows **76–81% of older adults** can't reliably read the small print 
 | Momentary push button | Short press = next track · long press = stop |
 | 3D-printed enclosure (Onshape) | Custom housing that mounts on a standard bottle |
 
--> **[See the full project, firmware, and build photos →](https://github.com/omer-khawar/talking-prescription-lid)**
+-> **[See the full project, firmware, and build photos](https://github.com/omer-khawar/talking-prescription-lid)**
 
 ---
 
