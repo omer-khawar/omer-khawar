@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Mechanical &amp; Aerospace Engineering @ Rutgers — School of Engineering, Honors College</b><br/>
+  <b>Mechanical &amp; Aerospace Engineering @ Rutgers · School of Engineering, Honors College</b><br/>
   Engineering + startups. I like building things that solve real problems.
 </p>
 
@@ -23,23 +23,23 @@
 
 ### About Me
 
-I'm an incoming first-year in **Mechanical & Aerospace Engineering** at Rutgers (School of Engineering, Honors College). I'm most at home where CAD, embedded electronics, and design overlap — taking a problem from idea to working prototype.
+I'm an incoming first-year studying **Mechanical & Aerospace Engineering** at Rutgers (School of Engineering, Honors College). I work where CAD, embedded electronics, and design meet, and I like turning a problem into a working prototype.
 
-- Founded **Youth2STEM Inc.**, a 501(c)(3) that's brought STEM education to 500+ students across 8 locations.
-- Three-time consecutive **FBLA State Finalist** — Top 10 in Intro to IT and Business Ethics, 2nd in Parliamentary Procedure.
-- Currently sharpening my web development (HTML / CSS / JavaScript) and Git for hackathons this fall.
+- Founded **Youth2STEM Inc.**, a 501(c)(3) that has brought STEM education to 500+ students across 8 locations.
+- Three-time consecutive **FBLA State Finalist**: Top 10 in Intro to IT and Business Ethics, 2nd in Parliamentary Procedure.
+- Learning web development (HTML / CSS / JavaScript) and Git for hackathons this fall.
 
-Off the clock: anime (currently watching *Re:Zero*), video editing, graphic design, and Forza Horizon 6.
+Off the clock: anime (*Re:Zero* right now), video editing, graphic design, and Forza Horizon 6.
 
 ---
 
-### 🔧 Featured Project — Talking Prescription Lid (Senior Capstone)
+### 🔧 Featured Project: Talking Prescription Lid (Senior Capstone)
 
-> A low-cost, accessible bottle lid that **reads medication information out loud at the press of a button** — built for older adults and visually impaired users who struggle to read prescription labels.
+> A low-cost, accessible bottle lid that **reads medication information out loud at the press of a button**, built for older adults and visually impaired users who struggle to read prescription labels.
 
-Research shows **76–81% of older adults** can't reliably read the small print on prescription labels, and **~18% experience medication errors** as a result. Our team designed a smart lid that speaks the medication name, dosage, and instructions on demand — no app, no internet, no pharmacy buy-in required.
+Research shows **76–81% of older adults** struggle to read the small print on prescription labels, and **about 18% experience medication errors** as a result. We built a smart lid that speaks the medication name, dosage, and instructions on demand, with no app, no internet, and no pharmacy buy-in.
 
-**My role:** Lead Engineer — full design lifecycle (problem validation → CAD → circuit → firmware → tested prototype).
+**My role:** Lead Engineer, across the full design lifecycle: problem validation → CAD → circuit → firmware → tested prototype.
 
 **Built with:**
 
@@ -59,7 +59,23 @@ Research shows **76–81% of older adults** can't reliably read the small print 
 | Momentary push button | Short press = next track · long press = stop |
 | 3D-printed enclosure (Onshape) | Custom housing that mounts on a standard bottle |
 
--> **[See the full project, firmware, and build photos](https://github.com/omer-khawar/talking-prescription-lid)**
+→ **[See the full project, firmware, and build photos](https://github.com/omer-khawar/talking-prescription-lid)**
+
+---
+
+### ⚽ Featured Project: WC26 World Cup 2026 Dashboard 🚧
+
+> A one-screen, visual-first fan dashboard for the 2026 FIFA World Cup. It runs as a static site with no backend and no API keys, pulls live match data from ESPN in the browser, and runs its own prediction engine on the client.
+
+Still in active development. The build pairs a 3D WebGL map of the host cities with a live match strip (win/draw/loss bars), an SVG knockout bracket, all 12 group tables, and championship odds from a 10,000-iteration Monte Carlo simulation that runs in a Web Worker so the interface stays responsive.
+
+**Built with:**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,vite,tailwind,threejs&perline=10" />
+</p>
+
+→ **[See the work in progress](https://github.com/omer-khawar/FIFA-2026-Dashboard)**
 
 ---
 
