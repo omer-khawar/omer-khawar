@@ -1,12 +1,13 @@
 <h1 align="center">Hi, I'm Omer 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Engineer+%7C+Builder+%7C+Founder;Turning+problems+into+working+prototypes;CAD+%7C+Embedded+systems+%7C+Design;Learning+web+dev+for+hackathons+this+fall" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=Engineer+%7C+Builder+%7C+Founder;Turning+problems+into+working+prototypes;CAD+%7C+Embedded+systems+%7C+Design" alt="Typing animation" />
 </p>
 
 <p align="center">
   <b>Mechanical &amp; Aerospace Engineering @ Rutgers · School of Engineering, Honors College</b><br/>
   Engineering + startups. I like building things that solve real problems.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omer-khawar-534a8a2a7">
@@ -26,7 +27,6 @@ I'm an incoming first-year studying **Mechanical & Aerospace Engineering** at Ru
 
 - Founded **Youth2STEM Inc.**, a 501(c)(3) that has brought STEM education to 500+ students across 8 locations.
 - Three-time consecutive **FBLA State Finalist**: Top 10 in Intro to IT and Business Ethics, 2nd in Parliamentary Procedure.
-- Learning web development (HTML / CSS / JavaScript) and Git for hackathons this fall.
 
 Off the clock: anime (*Re:Zero* right now), video editing, graphic design, and Forza Horizon 6.
 
