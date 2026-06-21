@@ -7,7 +7,6 @@
 <p align="center">
   <b>Mechanical &amp; Aerospace Engineering @ Rutgers · School of Engineering, Honors College</b><br/>
   Engineering + startups. I like building things that solve real problems.
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/omer-khawar-534a8a2a7">
