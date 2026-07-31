@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Mechanical &amp; Aerospace Engineering @ Rutgers · School of Engineering, Honors College</b><br/>
+  <b>Electrical Engineering @ Rutgers (CS &amp; Math minors) · School of Engineering, Honors College</b><br/>
   Engineering + startups. I like building things that solve real problems.
 </p>
 
@@ -23,7 +23,7 @@
 
 ### About Me
 
-I'm an incoming first-year studying **Mechanical & Aerospace Engineering** at Rutgers (School of Engineering, Honors College). I work where CAD, embedded electronics, and design meet, and I like turning a problem into a working prototype.
+I'm an incoming first-year studying **Electrical Engineering** at Rutgers (School of Engineering, Honors College), with minors in Computer Science and Mathematics. I work where CAD, embedded electronics, and design meet, and I like turning a problem into a working prototype.
 
 - Founded **Youth2STEM Inc.**, a 501(c)(3) that has brought STEM education to 500+ students across 8 locations.
 - Three-time consecutive **FBLA State Finalist**: Top 10 in Intro to IT and Business Ethics, 2nd in Parliamentary Procedure.
